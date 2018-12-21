@@ -42,5 +42,5 @@ To run: type "make" then run the executable sorthem with one command line argume
 
 To clean: type "make clean"
 
-## What I learned
+## What I learned!
 Through this project, not only did I learn how about assembly, but I also grew in my skill of debugging code as there are very few error messages and debuggers available for assembly. I also learned how computers work at the lowest level, specifically how they deal with memory in the form of the stack, heap, stack and base pointers, and more.
